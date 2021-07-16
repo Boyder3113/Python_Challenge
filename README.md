@@ -1,4 +1,19 @@
-README
+# Python Challenge
+
+<!--READ ME-->
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+    <li><a href="#built-with">Built With</a></li>
+  </ol>
+</details>
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
 This repository contains two seperate segements of Python code. Both code segements import a pre-populated CSV and preform the requested data analysis on the datasets contained in the CSVs.
 
@@ -8,12 +23,9 @@ PyPol_Main analyzes election data, looping through the data and returning a tota
 
 Both code segments will print out results in your terminal as well as create new CSVs with plain text print results.
 
-CONFIGURATION
-written to work with PythonData: "conda activate PythonData"
+<!-- BUILT WITH -->
+## Built With
 
-OPERATION (How to run in terminal)
-python PyBank_Main.py
-python PyPoll.py
+* Python
+* Runs in Terminal
 
-THANK YOU!
-A special thanks to everyone in the study group who helped me get past hurdles in the coding process as well as any and all bootcamp teachers/support staff who gave input on both code and concepts!
